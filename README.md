@@ -1,2 +1,2 @@
-## Starting Repo for MERN Stack - The Complete Guide
+## Ethan McDonnell ECommerce MERN APP
 "# MERNApp" 
